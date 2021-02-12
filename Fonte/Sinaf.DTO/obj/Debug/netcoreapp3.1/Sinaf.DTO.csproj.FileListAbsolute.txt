@@ -1,0 +1,12 @@
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\bin\Debug\netcoreapp3.1\Sinaf.DTO.deps.json
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\bin\Debug\netcoreapp3.1\Sinaf.DTO.dll
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\bin\Debug\netcoreapp3.1\Sinaf.DTO.pdb
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\bin\Debug\netcoreapp3.1\Base.Core.dll
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\bin\Debug\netcoreapp3.1\Base.Core.pdb
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.csprojAssemblyReference.cache
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.AssemblyInfoInputs.cache
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.AssemblyInfo.cs
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.csproj.CopyComplete
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.dll
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.pdb
+C:\Ricardo\Projetos\Sinaf\Fonte\Sinaf.DTO\obj\Debug\netcoreapp3.1\Sinaf.DTO.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\bin\Debug\netcoreapp3.1\Common.Core.deps.json
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\bin\Debug\netcoreapp3.1\Common.Core.dll
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\bin\Debug\netcoreapp3.1\Common.Core.pdb
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.csproj.CoreCompileInputs.cache
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.AssemblyInfoInputs.cache
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.AssemblyInfo.cs
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.dll
+C:\Users\rluizsilva\Documents\Desenvolvimento\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.pdb
+C:\Ricardo\Projetos\Common.Core\bin\Debug\netcoreapp3.1\Common.Core.deps.json
+C:\Ricardo\Projetos\Common.Core\bin\Debug\netcoreapp3.1\Common.Core.dll
+C:\Ricardo\Projetos\Common.Core\bin\Debug\netcoreapp3.1\Common.Core.pdb
+C:\Ricardo\Projetos\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.AssemblyInfoInputs.cache
+C:\Ricardo\Projetos\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.AssemblyInfo.cs
+C:\Ricardo\Projetos\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.csproj.CoreCompileInputs.cache
+C:\Ricardo\Projetos\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.dll
+C:\Ricardo\Projetos\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.pdb
+C:\Ricardo\Projetos\Common.Core\obj\Debug\netcoreapp3.1\Common.Core.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base.Core\Base.Core.csproj" />
+    <ProjectReference Include="..\EF.Base.Core\EF.Base.Core.csproj" />
+    <ProjectReference Include="..\Sinaf.Domain.Data\Sinaf.Domain.Data.csproj" />
+    <ProjectReference Include="..\Sinaf.DTO\Sinaf.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

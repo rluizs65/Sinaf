@@ -1,0 +1,9 @@
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\bin\Debug\netcoreapp3.1\Common.Classes.deps.json
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\bin\Debug\netcoreapp3.1\Common.Classes.dll
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\bin\Debug\netcoreapp3.1\Common.Classes.pdb
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\obj\Debug\netcoreapp3.1\Common.Classes.csproj.CoreCompileInputs.cache
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\obj\Debug\netcoreapp3.1\Common.Classes.AssemblyInfoInputs.cache
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\obj\Debug\netcoreapp3.1\Common.Classes.AssemblyInfo.cs
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\obj\Debug\netcoreapp3.1\Common.Classes.dll
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\obj\Debug\netcoreapp3.1\Common.Classes.pdb
+C:\Users\rluizsilva\Documents\Desenvolvimento\Dokz\Common.Classes\obj\Debug\netcoreapp3.1\Common.Classes.csprojAssemblyReference.cache

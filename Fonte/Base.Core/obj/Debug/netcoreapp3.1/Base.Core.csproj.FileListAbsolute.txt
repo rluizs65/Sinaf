@@ -1,0 +1,17 @@
+C:\Ricardo\Bases\Base.Core\bin\Debug\netcoreapp3.1\Base.Core.deps.json
+C:\Ricardo\Bases\Base.Core\bin\Debug\netcoreapp3.1\Base.Core.dll
+C:\Ricardo\Bases\Base.Core\bin\Debug\netcoreapp3.1\Base.Core.pdb
+C:\Ricardo\Bases\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.AssemblyInfoInputs.cache
+C:\Ricardo\Bases\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.AssemblyInfo.cs
+C:\Ricardo\Bases\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.csproj.CoreCompileInputs.cache
+C:\Ricardo\Bases\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.dll
+C:\Ricardo\Bases\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.pdb
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\bin\Debug\netcoreapp3.1\Base.Core.deps.json
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\bin\Debug\netcoreapp3.1\Base.Core.dll
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\bin\Debug\netcoreapp3.1\Base.Core.pdb
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.AssemblyInfoInputs.cache
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.AssemblyInfo.cs
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.dll
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.pdb
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.csprojAssemblyReference.cache
+C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.csproj.CoreCompileInputs.cache

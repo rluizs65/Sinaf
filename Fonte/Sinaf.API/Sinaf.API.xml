@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sinaf.API</name>
+    </assembly>
+    <members>
+        <member name="M:Sinaf.API.Controllers.ClienteController.GetAllCliente(Sinaf.DTO.Requests.GetAllClientRequestDTO)">
+            <summary>
+            Retorna lista de todos os clientes
+            </summary>
+            <param name="request">Parâmetros de entrada</param>
+            <returns></returns>
+        </member>
+        <member name="M:Sinaf.API.Controllers.ClienteController.GetClienteByNome(Sinaf.DTO.Requests.GetClientByNomeRequestDTO)">
+            <summary>
+            Retorna cliente pelo nome
+            </summary>
+            <param name="request">Nome do cliente</param>
+            <returns></returns>
+        </member>
+        <member name="T:Sinaf.API.Controllers.PessoaController">
+            <summary>
+            API de Pessoas
+            </summary>
+        </member>
+        <member name="M:Sinaf.API.Controllers.PessoaController.Post(Sinaf.DTO.Requests.UpdatePessoaRequestDTO)">
+            <summary>
+            Atualiza dados de uma pessoa
+            </summary>
+            <param name="request">Parâmetros de entrada</param>
+            <returns></returns>
+        </member>
+        <member name="M:Sinaf.API.Controllers.PessoaController.Put(Sinaf.DTO.Requests.AddPessoaRequestDTO)">
+            <summary>
+            Inclui uma nova pessoa
+            </summary>
+            <param name="request">Parâmetros de entrada</param>
+            <returns></returns>
+        </member>
+        <member name="M:Sinaf.API.Controllers.PessoaController.Delete(Sinaf.DTO.Requests.DeletePessoaRequestDTO)">
+            <summary>
+            Remove registro de uma pessoa
+            </summary>
+            <param name="request">Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Sinaf.API.Startup.ConfigureDomainService(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Classes Domain Service para injeção de dependência
+            </summary>
+        </member>
+        <member name="M:Sinaf.API.Startup.ConfigureRepository(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Classes Repository para injeção de dependência
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

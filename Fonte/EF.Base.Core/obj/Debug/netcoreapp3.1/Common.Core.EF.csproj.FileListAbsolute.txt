@@ -1,0 +1,12 @@
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.csprojAssemblyReference.cache
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.AssemblyInfoInputs.cache
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.AssemblyInfo.cs
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.csproj.CoreCompileInputs.cache
+C:\Ricardo\Projetos\Common.Core.EF\bin\Debug\netcoreapp3.1\Common.Core.EF.deps.json
+C:\Ricardo\Projetos\Common.Core.EF\bin\Debug\netcoreapp3.1\Common.Core.EF.dll
+C:\Ricardo\Projetos\Common.Core.EF\bin\Debug\netcoreapp3.1\Common.Core.EF.pdb
+C:\Ricardo\Projetos\Common.Core.EF\bin\Debug\netcoreapp3.1\Common.Core.dll
+C:\Ricardo\Projetos\Common.Core.EF\bin\Debug\netcoreapp3.1\Common.Core.pdb
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.csproj.CopyComplete
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.dll
+C:\Ricardo\Projetos\Common.Core.EF\obj\Debug\netcoreapp3.1\Common.Core.EF.pdb
