@@ -1,10 +1,8 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MediatR;
 using Base.Core.Controllers;
 using Sinaf.DTO.Requests;
-using Base.Core.Enumerators;
 
 namespace Sinaf.API.Controllers
 {

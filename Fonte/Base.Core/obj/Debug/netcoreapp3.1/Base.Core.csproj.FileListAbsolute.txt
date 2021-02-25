@@ -13,5 +13,4 @@ C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.Asse
 C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.AssemblyInfo.cs
 C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.dll
 C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.pdb
-C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.csprojAssemblyReference.cache
 C:\Ricardo\Projetos\Sinaf\Fonte\Base.Core\obj\Debug\netcoreapp3.1\Base.Core.csproj.CoreCompileInputs.cache

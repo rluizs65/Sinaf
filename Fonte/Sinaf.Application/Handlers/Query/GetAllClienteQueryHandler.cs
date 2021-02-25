@@ -1,5 +1,4 @@
-﻿using Base.Core.Paging;
-using MediatR;
+﻿using MediatR;
 using Sinaf.DTO.Responses;
 using Sinaf.DTO.Requests;
 using System.Threading;

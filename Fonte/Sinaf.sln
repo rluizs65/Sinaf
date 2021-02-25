@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sinaf.Application", "Sinaf.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sinaf.API", "Sinaf.API\Sinaf.API.csproj", "{26B114D1-3936-497A-9318-AB37B915A50D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinaf.Domain.Data", "Sinaf.Domain.Data\Sinaf.Domain.Data.csproj", "{4A9D3710-0DA9-47AC-A665-6BB4832050EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sinaf.Domain.Data", "Sinaf.Domain.Data\Sinaf.Domain.Data.csproj", "{4A9D3710-0DA9-47AC-A665-6BB4832050EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinaf.Web", "Sinaf.Web\Sinaf.Web.csproj", "{3CD51369-F2FB-4DE3-9DF1-2B33F4D0B48F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,10 @@ Global
 		{4A9D3710-0DA9-47AC-A665-6BB4832050EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A9D3710-0DA9-47AC-A665-6BB4832050EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A9D3710-0DA9-47AC-A665-6BB4832050EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD51369-F2FB-4DE3-9DF1-2B33F4D0B48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD51369-F2FB-4DE3-9DF1-2B33F4D0B48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD51369-F2FB-4DE3-9DF1-2B33F4D0B48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD51369-F2FB-4DE3-9DF1-2B33F4D0B48F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{AF72193A-77E0-43F7-915E-4E1C702C4CCA} = {9230F2FD-0110-4DC2-A619-5B69763F75C9}
 		{26B114D1-3936-497A-9318-AB37B915A50D} = {7C31B1D1-186E-4CCE-8C92-F3A43EF34B37}
 		{4A9D3710-0DA9-47AC-A665-6BB4832050EC} = {2BA63660-A17C-4CB6-B6EC-FB4CA0553BC8}
+		{3CD51369-F2FB-4DE3-9DF1-2B33F4D0B48F} = {0FD45801-6583-4D13-818C-9295D8FED18F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FD42DC81-C513-4E26-AC15-C62770974D32}
